@@ -1,0 +1,7 @@
+.claude/
+.serena/
+*.log
+*.swp
+*.swo
+*~
+*:Zone.Identifier*
